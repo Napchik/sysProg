@@ -3,19 +3,9 @@
 
 class Calculator
 {
-    public:
-        int Add (double, double);
-        int Sub (double, double);
-        int Mul (double, double);
-        int Div (double, double);
-
+	public:
+		int Add (double, double);
+		int Sub (double, double);
 };
 
 #endif//CALCULATOR_H
-/*test*/
-/*test*/
-/*test*/
-/*test*/
-/*test*/
-/*test*/
-/*test*/
